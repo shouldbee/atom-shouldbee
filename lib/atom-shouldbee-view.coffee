@@ -7,7 +7,7 @@ class AtomShouldbeeView
 
     # Create message element
     message = document.createElement('div')
-    message.textContent = "The AtomShouldbee package is Alive! It's ALIVE!"
+    message.textContent = "Atom ShouldBee Mode On!"
     message.classList.add('message')
     @element.appendChild(message)
 

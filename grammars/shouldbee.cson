@@ -1,0 +1,13 @@
+'scopeName': 'source.gfm'
+'name': 'shouldbee'
+'fileTypes': [
+  'markdown'
+  'md'
+  'mkd'
+  'mkdown'
+  'gfm'
+]
+'firstLineMatch': ''
+'patterns': [
+  
+]

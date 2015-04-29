@@ -3,11 +3,16 @@
 'fileTypes': [
   'markdown'
   'md'
+  'mdown'
   'mkd'
   'mkdown'
-  'gfm'
+  'rmd'
+  'ron'
 ]
-'firstLineMatch': ''
 'patterns': [
-  
+  {
+    'begin': '「'
+    'end': '」'
+    'name': 'name.object.gfm'
+  }
 ]

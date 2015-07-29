@@ -1,16 +1,8 @@
 {
   "name": "atom-shouldbee",
-  "main": "./lib/atom-shouldbee",
   "version": "0.0.0",
-  "description": "Make it easy to develop ShouldBee test scripts on Atom editor.",
-  "activationCommands": {
-    "atom-workspace": "atom-shouldbee:toggle"
-  },
+  "description": "Make it easy to develop ShouldBee test scripts on Atom",
   "repository": "https://github.com/shouldbee/atom-shouldbee",
   "license": "MIT",
-  "engines": {
-    "atom": ">=0.174.0 <2.0.0"
-  },
-  "dependencies": {
-  }
+  "engines": {"atom": "<2.0.0"}
 }
